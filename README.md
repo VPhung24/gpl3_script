@@ -1,6 +1,6 @@
 # [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text) Script
 
-This script is used to add the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text) to the top of a file.
+This script is used to add the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text) to the top of all typescript files in a directory.
 
 ## Usage
 
